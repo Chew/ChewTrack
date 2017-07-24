@@ -24,7 +24,8 @@
 	"graphDuration": 86400000,
 	"serverCategories": {
 		"minigames": "Minigame Networks",
-		"pocket": "Pocket Edition Networks"
+		"pvp": "PvP Servers",
+		"smp": "Survival Servers"
 	},
 	"versions": {
 		"PC": [
@@ -35,9 +36,6 @@
 			210,
 			315,
 			335
-		],
-		"PE": [
-			0
 		]
 	},
 	"categoriesVisible": true,
