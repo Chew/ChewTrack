@@ -1,14 +1,32 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Mineplex",
+		"ip": "us.mineplex.com",
 		"type": "PC",
 		"category": "minigames"
 	},
 	{
-		"name": "HiveMC",
-		"ip": "play.hivemc.com",
+		"name": "The Chaos Network",
+		"ip": "chaosnet.mc.gg",
 		"type": "PC",
-		"category": "minigames"
+		"category": "pvp"
+	},
+	{
+		"name": "AutCraft",
+		"ip": "mc.autcraft.net",
+		"type": "PC",
+		"category": "smp",
+	},
+	{
+		"name": "AutCraft",
+		"ip": "mc.autcraft.net",
+		"type": "PC",
+		"category": "smp",
+	},
+	{
+		"name": "RileyCraft",
+		"ip": "149.202.64.146:58715",
+		"type": "PC",
+		"category": "smp",
 	}
 ]
