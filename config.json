@@ -36,7 +36,10 @@
 			210,
 			315,
 			335
-		]
+		],
+ 		"PE": [
+ 			0
+			]
 	},
 	"categoriesVisible": true,
 	"serverTypesVisible": true
