@@ -25,7 +25,8 @@
 	"serverCategories": {
 		"minigames": "Minigame Networks",
 		"pvp": "PvP Servers",
-		"smp": "Survival Servers"
+		"smp": "Survival Servers",
+		"mmorpg": "MMO RPG Servers"
 	},
 	"versions": {
 		"PC": [
