@@ -10,7 +10,7 @@ var smallChartOptions = {
         show: false
     },
     yaxis: {
-        minTickSize: 75,
+        minTickSize: 20,
         tickDecimals: 0,
         show: true,
         tickLength: 10,
