@@ -16,5 +16,23 @@
 		"ip": "mc.autcraft.com",
 		"type": "PC",
 		"category": "smp"
+	},
+	{
+		"name": "RileyCraft",
+		"ip": "rileycraft.chew.pw",
+		"type": "PC",
+		"category": "smp"
+	},
+	{
+		"name": "Owl Academy",
+		"ip": "mc.owl.academy",
+		"type": "PC",
+		"category": "smp"
+	},
+	{
+		"name": "Wynncraft",
+		"ip": "play.wynncraft.com",
+		"type": "PC",
+		"category": "mmorpg"
 	}
 ]
