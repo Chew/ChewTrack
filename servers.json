@@ -13,13 +13,7 @@
 	},
 	{
 		"name": "AutCraft",
-		"ip": "mc.autcraft.net",
-		"type": "PC",
-		"category": "smp"
-	},
-	{
-		"name": "AutCraft",
-		"ip": "mc.autcraft.net",
+		"ip": "mc.autcraft.com",
 		"type": "PC",
 		"category": "smp"
 	},
