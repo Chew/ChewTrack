@@ -34,5 +34,11 @@
 		"ip": "play.wynncraft.com",
 		"type": "PC",
 		"category": "mmorpg"
+	},
+	{
+		"name": "GotPvP",
+		"ip": "play.gotpvp.com",
+		"type": "PC",
+		"category": "pvp"
 	}
 ]
