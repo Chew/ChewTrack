@@ -40,5 +40,11 @@
 		"ip": "play.gotpvp.com",
 		"type": "PC",
 		"category": "pvp"
+	},
+	{
+		"name": "LegitLand",
+		"ip": "play.legit.land",
+		"type": "PC",
+		"category": "smp"
 	}
 ]
