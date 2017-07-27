@@ -46,5 +46,17 @@
 		"ip": "mc.legit.land",
 		"type": "PC",
 		"category": "smp"
-	}
+	},
+	{
+		"name": "SpigotMC",
+		"ip": "play.spigotmc.org",
+		"type": "PC",
+		"category": "smp"
+	},
+	{
+		"name": "ChewCraft",
+		"ip": "mc.chew.pw",
+		"type": "PC",
+		"category": "smp"
+	},
 ]
