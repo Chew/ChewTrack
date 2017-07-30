@@ -58,5 +58,11 @@
 		"ip": "mc.rileycraft.tk",
 		"type": "PC",
 		"category": "smp"
+	},
+	{
+		"name": "CabalCraft",
+		"ip": "play.cabalcraft.com",
+		"type": "PC",
+		"category": "smp"
 	}
 ]
