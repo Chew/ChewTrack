@@ -52,5 +52,11 @@
 		"ip": "mc.chew.pw",
 		"type": "PC",
 		"category": "smp"
-	}
+	},
+	{
+		"name": "RileyCraft",
+		"ip": "mc.rileycraft.tk",
+		"type": "PC",
+		"category": "smp"
+	},
 ]
