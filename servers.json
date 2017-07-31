@@ -64,5 +64,11 @@
 		"ip": "play.cabalcraft.com",
 		"type": "PC",
 		"category": "smp"
-	}
+	},
+	{
+		"name": "MCOrigins",
+		"ip": "mc.mcorigins.com",
+		"type": "PC",
+		"category": "minigames"
+	},
 ]
