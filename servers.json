@@ -6,12 +6,6 @@
 		"category": "minigames"
 	},
 	{
-		"name": "The Chaos Network",
-		"ip": "bans.chew.pw",
-		"type": "PC",
-		"category": "pvp"
-	},
-	{
 		"name": "AutCraft",
 		"ip": "mc2.autcraft.com",
 		"type": "PC",
@@ -48,8 +42,8 @@
 		"category": "smp"
 	},
 	{
-		"name": "RileyCraft",
-		"ip": "mc.rileycraft.tk",
+		"name": "CloudCityMC",
+		"ip": "mc.cloudcitymc.us",
 		"type": "PC",
 		"category": "smp"
 	},
