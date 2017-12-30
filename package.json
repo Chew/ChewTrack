@@ -2,7 +2,7 @@
   "name": "minetrack",
   "version": "3.1.0",
   "description": "A Minecraft server tracker that lets you focus on the basics.",
-  "main": "app.js",
+  "main": "server.js",
   "dependencies": {
     "mc-ping-updated": "0.1.0",
     "mcpe-ping-fixed": "0.0.3",
