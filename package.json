@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "server.js"
-  }
+  },
   "dependencies": {
     "mc-ping-updated": "0.1.0",
     "mcpe-ping-fixed": "0.0.3",
