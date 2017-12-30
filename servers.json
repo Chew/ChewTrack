@@ -12,8 +12,8 @@
 		"category": "smp"
 	},
 	{
-		"name": "Owl Academy",
-		"ip": "mc.owl.academy",
+		"name": "Somnus",
+		"ip": "mc.somn.us",
 		"type": "PC",
 		"category": "smp"
 	},
@@ -48,15 +48,15 @@
 		"category": "smp"
 	},
 	{
-		"name": "CabalCraft",
-		"ip": "play.cabalcraft.com",
-		"type": "PC",
-		"category": "smp"
-	},
-	{
 		"name": "MCOrigins",
 		"ip": "mc.mcorigins.com",
 		"type": "PC",
 		"category": "minigames"
+	},
+	{
+		"name": "CloudCityMC",
+		"ip": "mc.cloudcitymc.us",
+		"type": "PC",
+		"category": "smp"
 	}
 ]
