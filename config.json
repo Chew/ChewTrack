@@ -1,48 +1,48 @@
 {
-	"routes": {
-		"/": "assets/html/index.html",
-		"/images/compass.png": "assets/images/compass.png",
-		"/js/site.js": "assets/js/site.js",
-		"/js/util.js": "assets/js/util.js",
-		"/js/graph.js": "assets/js/graph.js",
-		"/css/main.css": "assets/css/main.css"
-	},
-	"faviconOverride": {
+  "routes": {
+    "/": "assets/html/index.html",
+    "/images/compass.png": "assets/images/compass.png",
+    "/js/site.js": "assets/js/site.js",
+    "/js/util.js": "assets/js/util.js",
+    "/js/graph.js": "assets/js/graph.js",
+    "/css/main.css": "assets/css/main.css"
+  },
+  "faviconOverride": {
 
-	},
-	"site": {
-		"port": 4353,
-		"ip": "0.0.0.0"
-	},
-	"rates": {
-		"upateMojangStatus": 5000,
-		"mojangStatusTimeout": 3500,
-		"pingAll": 3000,
-		"connectTimeout": 2500
-	},
-	"logToDatabase": false,
-	"graphDuration": 86400000,
-	"serverCategories": {
-		"minigames": "Minigame Networks",
-		"pvp": "PvP Servers",
-		"smp": "Survival Servers",
-		"mmorpg": "MMO RPG Servers"
-	},
-	"versions": {
-		"PC": [
-			4,
-			5,
-			47,
-			107,
-			210,
-			315,
-			316,
-			335
-		],
- 		"PE": [
- 			0
-			]
-	},
-	"categoriesVisible": true,
-	"serverTypesVisible": true
+  },
+  "site": {
+    "port": 4353,
+    "ip": "0.0.0.0"
+  },
+  "rates": {
+    "upateMojangStatus": 5000,
+    "mojangStatusTimeout": 3500,
+    "pingAll": 3000,
+    "connectTimeout": 2500
+  },
+  "logToDatabase": true,
+  "graphDuration": 86400000,
+  "serverCategories": {
+    "minigames": "Minigame Networks",
+    "pvp": "PvP Servers",
+    "smp": "Survival Servers",
+    "mmorpg": "MMO RPG Servers"
+  },
+  "versions": {
+    "PC": [
+      4,
+      5,
+      47,
+      107,
+      210,
+      315,
+      316,
+      335
+    ],
+    "PE": [
+      0
+    ]
+  },
+  "categoriesVisible": false,
+  "serverTypesVisible": false
 }
