@@ -5,14 +5,23 @@
 		"/js/site.js": "assets/js/site.js",
 		"/js/util.js": "assets/js/util.js",
 		"/js/graph.js": "assets/js/graph.js",
-		"/css/main.css": "assets/css/main.css"
+		"/css/main.css": "assets/css/main.css",
+		"/favicons/mineplex.png": "assets/images/favicons/mineplex.png",
+		"/favicons/lifeboat.png": "assets/images/favicons/lifeboat.png",
+		"/favicons/inpvp.png": "assets/images/favicons/inpvp.png",
+		"/favicons/cookie_build.png": "assets/images/favicons/cookie_build.png",
+		"/favicons/pigraid.png": "assets/images/favicons/pigraid.png"
 	},
 	"faviconOverride": {
-
+		"Mineplex": "/favicons/mineplex.png",
+		"Lifeboat": "/favicons/lifeboat.png",
+		"InPvP": "/favicons/inpvp.png",
+		"CookieBuild": "/favicons/cookie_build.png",
+		"PigRaid": "/favicons/pigraid.png"
 	},
 	"site": {
-		"port": 8080,
-		"ip": "0.0.0.0"
+		"port": 8081,
+		"ip": "127.0.0.1"
 	},
 	"rates": {
 		"upateMojangStatus": 5000,
@@ -20,12 +29,8 @@
 		"pingAll": 3000,
 		"connectTimeout": 2500
 	},
-	"logToDatabase": false,
+	"logToDatabase": true,
 	"graphDuration": 86400000,
-	"serverCategories": {
-		"minigames": "Minigame Networks",
-		"pocket": "Pocket Edition Networks"
-	},
 	"versions": {
 		"PC": [
 			4,
@@ -41,6 +46,5 @@
 			0
 		]
 	},
-	"categoriesVisible": true,
-	"serverTypesVisible": true
+	"serverTypesVisible": false
 }
