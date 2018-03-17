@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Mineplex PE",
+		"name": "Mineplex",
 		"ip": "pe.mineplex.com",
 		"type": "PE"
 	},
@@ -18,11 +18,6 @@
 	{
 		"name": "CookieBuild",
 		"ip": "pe.cookie-build.com",
-		"type": "PE"
-	},
-	{
-		"name": "Leet CC",
-		"ip": "play.leet.cc",
 		"type": "PE"
 	},
 	{
