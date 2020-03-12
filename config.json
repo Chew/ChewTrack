@@ -29,20 +29,21 @@
     "mmorpg": "MMO RPG Servers"
   },
   "versions": {
-    "PC": [
-      4,
-      5,
-      47,
-      107,
-      210,
-      315,
-      316,
-      335
-    ],
-    "PE": [
-      0
-    ]
-  },
+		"PC": [
+			4,
+			5,
+			47,
+			107,
+			210,
+			315,
+			335,
+			393,
+			477
+		],
+		"PE": [
+			0
+		]
+	},
   "categoriesVisible": false,
   "serverTypesVisible": false
 }
