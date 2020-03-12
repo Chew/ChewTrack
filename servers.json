@@ -6,28 +6,10 @@
 		"category": "minigames"
 	},
 	{
-		"name": "AutCraft",
-		"ip": "mc2.autcraft.com",
-		"type": "PC",
-		"category": "smp"
-	},
-	{
-		"name": "Somnus",
-		"ip": "mc.somn.us",
-		"type": "PC",
-		"category": "smp"
-	},
-	{
 		"name": "Wynncraft",
 		"ip": "play.wynncraft.com",
 		"type": "PC",
 		"category": "mmorpg"
-	},
-	{
-		"name": "GotPvP",
-		"ip": "play.gotpvp.com",
-		"type": "PC",
-		"category": "pvp"
 	},
 	{
 		"name": "LegitLand",
@@ -36,32 +18,8 @@
 		"category": "smp"
 	},
 	{
-		"name": "SpigotMC",
-		"ip": "play.spigotmc.org",
-		"type": "PC",
-		"category": "smp"
-	},
-	{
-		"name": "CloudCityMC",
-		"ip": "mc.cloudcitymc.us",
-		"type": "PC",
-		"category": "smp"
-	},
-	{
-		"name": "MCOrigins",
-		"ip": "mc.mcorigins.com",
-		"type": "PC",
-		"category": "minigames"
-	},
-	{
-		"name": "CloudCityMC",
-		"ip": "mc.cloudcitymc.us",
-		"type": "PC",
-		"category": "smp"
-	},
-	{
-		"name": "DieHard",
-		"ip": "diehard.legit.land",
+		"name": "MemeratorMC",
+		"ip": "mc.memerator.me",
 		"type": "PC",
 		"category": "smp"
 	}

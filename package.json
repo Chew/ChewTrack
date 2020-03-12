@@ -1,7 +1,7 @@
 {
-  "name": "minetrack",
-  "version": "3.1.0",
-  "description": "A Minecraft server tracker that lets you focus on the basics.",
+  "name": "chewtrack",
+  "version": "1.1.0",
+  "description": "Minetrack but for servers chew likes.",
   "main": "app.js",
   "scripts": {
     "start": "node ./app.js"
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cryptkeeper/Minetrack.git"
+    "url": "git+https://github.com/Chew/ChewTrack.git"
   },
   "keywords": [
     "minetrack"
   ],
-  "author": "Cryptkeeper <hello@cryptkpr.me>",
+  "author": "Chew <chew@chew.pw>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Cryptkeeper/Minetrack/issues"
