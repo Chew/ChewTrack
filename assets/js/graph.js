@@ -44,7 +44,7 @@ var bigChartOptions = {
     },
     yaxis: {
         show: true,
-        tickSize: 100,
+        tickSize: 4000,
         tickLength: 10,
         tickFormatter: function(value) {
             return formatNumber(value);
@@ -117,7 +117,7 @@ function convertGraphData(rawData) {
 
     var keys = Object.keys(rawData);
 
-    for (var i = 0; i < keys.length; i++) {    
+    for (var i = 0; i < keys.length; i++) {
         data.push({
             data: rawData[keys[i]],
             yaxis: 1,
